@@ -1,0 +1,12 @@
+C:\Gabo\Tools\ActiveDirectory\ActiveDirectoryTool\ActiveDirectoryTool\bin\Debug\ActiveDirectoryTool.exe.config
+C:\Gabo\Tools\ActiveDirectory\ActiveDirectoryTool\ActiveDirectoryTool\bin\Debug\ActiveDirectoryTool.exe
+C:\Gabo\Tools\ActiveDirectory\ActiveDirectoryTool\ActiveDirectoryTool\bin\Debug\ActiveDirectoryTool.pdb
+C:\Gabo\Tools\ActiveDirectory\ActiveDirectoryTool\ActiveDirectoryTool\obj\Debug\Interop.ActiveDs.dll
+C:\Gabo\Tools\ActiveDirectory\ActiveDirectoryTool\ActiveDirectoryTool\obj\Debug\ActiveDirectoryTool.csproj.ResolveComReference.cache
+C:\Gabo\Tools\ActiveDirectory\ActiveDirectoryTool\ActiveDirectoryTool\obj\Debug\ActiveDirectoryTool.exe
+C:\Gabo\Tools\ActiveDirectory\ActiveDirectoryTool\ActiveDirectoryTool\obj\Debug\ActiveDirectoryTool.pdb
+C:\Gabriel\Blog\ActiveDirectoryTool\ActiveDirectoryTool\bin\Debug\ActiveDirectoryTool.exe.config
+C:\Gabriel\Blog\ActiveDirectoryTool\ActiveDirectoryTool\obj\Debug\Interop.ActiveDs.dll
+C:\Gabriel\Blog\ActiveDirectoryTool\ActiveDirectoryTool\obj\Debug\ActiveDirectoryTool.csproj.ResolveComReference.cache
+C:\Gabriel\Blog\ActiveDirectoryTool\ActiveDirectoryTool\obj\Debug\ActiveDirectoryTool.exe
+C:\Gabriel\Blog\ActiveDirectoryTool\ActiveDirectoryTool\obj\Debug\ActiveDirectoryTool.pdb
